@@ -2,4 +2,6 @@
 > Chronoligical history of my personal blog
 
 April 4, 2018 – 13:21
-* Start to transferring WordPress blog to Hexo.
+* Use Hexo.
+* Use cactus theme.
+* Update configs of Hexo and cactus theme.
