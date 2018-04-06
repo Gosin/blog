@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Smarking",
+        "url": "https://github.com/Gosin/Smarking",
+        "desc": "Parking data processing and analysis."
+    },
+    {
+        "name": "gedcom",
+        "url": "https://github.com/Gosin/gedcom",
+        "desc": "Family tree anomaly detection developed by adopting agile methodology."
+    }
+]
