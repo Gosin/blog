@@ -92,6 +92,7 @@ theme_config:
       url: /assets/images/apple-touch-icon.png
       gravatar: false
   colorscheme: classic
+  highlight: solarized-dark
   projects_url: https://github.com/gosin/
   social_links:
     github: https://github.com/gosin
@@ -101,7 +102,6 @@ theme_config:
     mail: mailto:canling0@gmail.com
   posts_overview:
       post_count: 10
-  highlight: solarized-dark
   rss:
   google_analytics:
     enabled: true
