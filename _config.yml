@@ -75,6 +75,10 @@ pagination_dir: page
 ## Themes: https://github.com/probberechts/hexo-theme-cactus
 theme: cactus
 theme_config:
+  nav:
+    home: /
+    about: /about/
+    articles: /archives/
   logo:
     enabled: true
     width: 50
