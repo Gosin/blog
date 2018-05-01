@@ -44,7 +44,7 @@ BrewPackageGraph[filePath_String] := Module[
                 (* Reset dependency chain. *)
                 dependencyChain = {{0, Global}}
                 ,
-                With[{packName = StringCases[line, (WordCharacter|"-")..] // First},
+                With[{packName = StringCases[line, (WordCharacter|"-"|"_")..] // First},
                     (* Collect vertices. *)
                     Sow[packName, Vertex];
                     With[{indentation = StringPosition[line, packName][[1, 1]]},
